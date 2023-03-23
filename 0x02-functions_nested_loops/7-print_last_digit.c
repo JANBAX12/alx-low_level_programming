@@ -4,7 +4,6 @@
  *
  * Return:  the value of the last digit.
  * @i: the last digit
- * @j: input digit
  */
 int print_last_digit(int i)
 {

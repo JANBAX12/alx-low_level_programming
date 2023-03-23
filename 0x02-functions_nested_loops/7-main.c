@@ -1,10 +1,11 @@
 #include "main.h"
-
 /**
  * main - check the code
  *
  * Return: Always 0.
  */
+int _putchar(char c);
+int print_last_digit(int);
 int main(void)
 {
     int r;
