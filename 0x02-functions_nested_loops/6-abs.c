@@ -9,9 +9,7 @@
 int _abs(int i)
 {
 	if (i < 0)
-		printf("%d\n", i * -1);
-	else
-		printf("%d\n", i);
+	i = -i;
 	return (i);
 }
 
