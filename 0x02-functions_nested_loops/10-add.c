@@ -1,14 +1,13 @@
 #include "main.h"
-#include <stido.h>
+#include <stdio.h>
 /**
  * add - add two integers.
+ * @i: first integer
+ * @j: second integer
  *
  * Return:addition numbers.
- * @i: number.
- * @n: sum
  */
-int add(int i, j int)
+int add(int i, int j)
 {
-	n = i +j;
-	return (i);
+	return (i + j);
 }
